@@ -46,11 +46,11 @@ public class Subscribe {
 	@ManyToOne
 	private User toUser;
 	
-	private LocalDateTime createTime;
+	private LocalDateTime createDate;
 	
 	@PrePersist
-	public void createTime() {
-		this.createTime = LocalDateTime.now();
+	public void createDate() {
+		this.createDate = LocalDateTime.now();
 	}
 
 }
