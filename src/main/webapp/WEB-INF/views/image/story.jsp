@@ -32,14 +32,14 @@
 					<span class="like"><b id="storyLikeCount-1">3 </b>likes</span>
 
 					<div class="sl__item__contents__content">
-						<p>등산하는 것이 너무 재밌네요</p>
+						<p>예쁜 해바라기</p>
 					</div>
 
 					<div id="storyCommentList-1">
 
 						<div class="sl__item__contents__comment" id="storyCommentItem-1"">
 							<p>
-								<b>Lovely :</b> 부럽습니다.
+								<b>Verano :</b> 해바라기가 너무 예쁘네요
 							</p>
 
 							<button>
